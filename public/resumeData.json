@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Shahid Mehmood",
+    "occupation": "ReactJS Developer & Project Manager @Intelysol",
+    "description": "Full Stack React Developer by Day, Founder & Freelancer by Night. #chachaReact",
+    "image": "shahid-pic.png",
+    "bio": "My name is Shahid Mehmood, I'm a Full Stack ReactJS Developer. Currently I'm working at Intelysol while also coaching ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "shahid@intelysol.com",
+    "phone": "+92 32 182 87590",
+    "address": {
+      "street": "Suit # 401-B, Nafees Arcade, Opposite Askari Park, Main University Road",
+      "city": "Karachi",
+      "state": "PK",
+      "zip": "75440"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ShahidMehmoodArain",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shahidmehmood/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shahidmehmood/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/intelysol",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Axiom Instuite",
+        "degree": "Masters in Advanced Computer Science",
+        "graduated": "January 2004",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Intelligent Solutions (intelysol)",
+        "title": "Team Leader & React Specialist",
+        "years": "Apr 2020 - Present",
+        "description": "Developing and Leading ReactJS Team."
+      },
+      {
+        "company": "I-Tech",
+        "title": "Software Engineer",
+        "years": "Nov 2003 - Apr 2004",
+        "description": "Work on various project based on c#"
+      },
+      {
+        "company": "AA Info Tech",
+        "title": "Software Engineer",
+        "years": "Nov 2000 - Jan 2003",
+        "description": "Work on various projects based on VB6"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma & Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Shahid is good team leader, he is always support the team and help lean new things.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Shahid must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Zeeshan Sattar"
+      }
+    ]
+  }
+}
